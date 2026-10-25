@@ -28,4 +28,4 @@ python main.py
 
 
 ## Declaración de uso de IA
-Use Gemini Pro 3.1 como apoyo para generar la base del código y los comentarios 
+Use Gemini Pro 3.1 como apoyo para generar la base del código y los comentarios. tambien para hacer bonito el readme
