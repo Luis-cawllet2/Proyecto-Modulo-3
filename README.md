@@ -25,7 +25,8 @@ python main.py
 - `README.md`: este archivo.
 
 ## Video del funcionamiento del programa 
-
+https://youtu.be/lnwalEWFdp8
+No eh podido poner camara por que el obs no me la detecta prometo arreglarlo para lo siguentes una disculpa ;c
 
 ## Declaración de uso de IA
 Use Gemini Pro 3.1 como apoyo para generar la base del código y los comentarios. tambien para hacer bonito el readme
